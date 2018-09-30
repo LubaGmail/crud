@@ -41,7 +41,15 @@ A new repo from an existing project
     git add .gitignore
 
     git add .
+        --  /c/ws/react/crud (master)
+    
+    git commit .
+        vim opens to make a comment 
+        esq :wq
+        -- [master (root-commit) 43d418c] Initial commit
 
     
+
+
 
 
