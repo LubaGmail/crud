@@ -60,6 +60,10 @@ A new repo from an existing project
         git remote add origin https://github.com/LubaGmail/crud.git
         git push -u origin master
 
+    -- update file
+    -- commit to local
+    -- push to remote
 
+    
 
 
