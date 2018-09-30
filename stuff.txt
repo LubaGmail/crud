@@ -48,7 +48,17 @@ A new repo from an existing project
         esq :wq
         -- [master (root-commit) 43d418c] Initial commit
 
+    git gui
     
+    Remote
+        https://github.com/LubaGmail        [NEW]   /crud
+        git remote add origin https://github.com/LubaGmail/crud.git
+        
+            ( git remote rm origin )    (close/reopen git bash)
+        
+        git remote -v
+        git remote add origin https://github.com/LubaGmail/crud.git
+        git push -u origin master
 
 
 
