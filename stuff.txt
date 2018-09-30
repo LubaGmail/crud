@@ -1,0 +1,47 @@
+create-react-app crud
+cd crud
+npm start
+
+RE: https://www.youtube.com/watch?v=S66rHpyU-Eg&t=2969s
+
+Routers
+    https://reacttraining.com/react-router/web/example/basic
+    https://blog.pusher.com/getting-started-with-react-router-v4/
+
+npm i --save react-router-dom  
+
+rcc
+
+https://reactjs.org/docs/react-component.html
+    UNSAFE_componentWillMount()
+    UNSAFE_componentWillUpdate()
+    UNSAFE_componentWillReceiveProps()
+
+    version 17. Use the rename-unsafe-lifecycles codemod to automatically update your components.
+
+Controlled          vs          Uncontrolled inputs
+  value onChange                    defaultValue
+
+{this.state.isEdit
+ ? (
+	<div />
+ )
+ : (
+	<div />
+ )
+}
+
+ADD
+---
+
+A new repo from an existing project
+-----------------------------------
+    git init .
+
+    git add .gitignore
+
+    git add .
+
+    
+
+

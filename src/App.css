@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.product {
+  margin-left: 5%;
+  margin-bottom: 1%;
+}
+
+.addDiv {
+  margin-left: 5%;
+  margin-bottom: 10%;
+}
+
+h1, h2, h3, p, ul, li {
+  font-family: tahoma;
+  text-align: center;
+}
+
+.appDiv {
+  background-color: palegreen;
+}
+
+.productsDiv {
+  background-color: plum;
+}
+
+.productDiv {
+  background-color: palegoldenrod;
+  padding-left: 5%;
+  padding-bottom: 5px;
+}
+
